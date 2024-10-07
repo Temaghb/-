@@ -1,0 +1,14 @@
+C:\Users\Next\Desktop\Vstudio\практика\consoleApp1\практика\obj\Debug\net8.0\практика.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Next\Desktop\Vstudio\практика\consoleApp1\практика\obj\Debug\net8.0\практика.AssemblyInfoInputs.cache
+C:\Users\Next\Desktop\Vstudio\практика\consoleApp1\практика\obj\Debug\net8.0\практика.AssemblyInfo.cs
+C:\Users\Next\Desktop\Vstudio\практика\consoleApp1\практика\obj\Debug\net8.0\практика.csproj.CoreCompileInputs.cache
+C:\Users\Next\Desktop\Vstudio\практика\consoleApp1\практика\bin\Debug\net8.0\практика.exe
+C:\Users\Next\Desktop\Vstudio\практика\consoleApp1\практика\bin\Debug\net8.0\практика.deps.json
+C:\Users\Next\Desktop\Vstudio\практика\consoleApp1\практика\bin\Debug\net8.0\практика.runtimeconfig.json
+C:\Users\Next\Desktop\Vstudio\практика\consoleApp1\практика\bin\Debug\net8.0\практика.dll
+C:\Users\Next\Desktop\Vstudio\практика\consoleApp1\практика\bin\Debug\net8.0\практика.pdb
+C:\Users\Next\Desktop\Vstudio\практика\consoleApp1\практика\obj\Debug\net8.0\практика.dll
+C:\Users\Next\Desktop\Vstudio\практика\consoleApp1\практика\obj\Debug\net8.0\refint\практика.dll
+C:\Users\Next\Desktop\Vstudio\практика\consoleApp1\практика\obj\Debug\net8.0\практика.pdb
+C:\Users\Next\Desktop\Vstudio\практика\consoleApp1\практика\obj\Debug\net8.0\практика.genruntimeconfig.cache
+C:\Users\Next\Desktop\Vstudio\практика\consoleApp1\практика\obj\Debug\net8.0\ref\практика.dll
